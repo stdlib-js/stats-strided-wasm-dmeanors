@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`2b194d1`](https://github.com/stdlib-js/stdlib/commit/2b194d117855b1f756a5f9617873231cf2a7fbd8) - **docs:** fix duplication declaration _(by Athan Reines)_
 -   [`aabd484`](https://github.com/stdlib-js/stdlib/commit/aabd4840b72d764e03009f45ebf1039174fcb4dc) - **docs:** update comments _(by Athan Reines)_
 -   [`09ffc2c`](https://github.com/stdlib-js/stdlib/commit/09ffc2c08be90669defcaaa19a50b53a6d7473f8) - **feat:** add `stats/strided/wasm/dmeanors` [(#5832)](https://github.com/stdlib-js/stdlib/pull/5832) _(by Prashant Kumar Yadav, Athan Reines, stdlib-bot)_
 
