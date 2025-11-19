@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-04)
+## Unreleased (2025-11-19)
 
 <section class="features">
 
@@ -16,12 +16,23 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`982ac2d`](https://github.com/stdlib-js/stdlib/commit/982ac2d5c21bccdeffa39b4807b13b20ecba5cb9) - ensure correct `this` context when creating a new Module instance
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`982ac2d`](https://github.com/stdlib-js/stdlib/commit/982ac2d5c21bccdeffa39b4807b13b20ecba5cb9) - **fix:** ensure correct `this` context when creating a new Module instance _(by Athan Reines)_
 -   [`eb4ee39`](https://github.com/stdlib-js/stdlib/commit/eb4ee397ee785010d2f85edc22de34775869f036) - **chore:** update comments [(#7203)](https://github.com/stdlib-js/stdlib/pull/7203) _(by Prashant Kumar Yadav, Athan Reines)_
 -   [`2b194d1`](https://github.com/stdlib-js/stdlib/commit/2b194d117855b1f756a5f9617873231cf2a7fbd8) - **docs:** fix duplication declaration _(by Athan Reines)_
 -   [`aabd484`](https://github.com/stdlib-js/stdlib/commit/aabd4840b72d764e03009f45ebf1039174fcb4dc) - **docs:** update comments _(by Athan Reines)_
