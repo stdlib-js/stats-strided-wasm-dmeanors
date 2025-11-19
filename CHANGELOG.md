@@ -20,6 +20,7 @@
 
 ### Bug Fixes
 
+-   [`0d71e53`](https://github.com/stdlib-js/stdlib/commit/0d71e530c42bc8d7c98ad779e505fc01bd904a1f) - ensure correct `this` context when creating a new Module instance
 -   [`982ac2d`](https://github.com/stdlib-js/stdlib/commit/982ac2d5c21bccdeffa39b4807b13b20ecba5cb9) - ensure correct `this` context when creating a new Module instance
 
 </section>
@@ -32,6 +33,7 @@
 
 <details>
 
+-   [`0d71e53`](https://github.com/stdlib-js/stdlib/commit/0d71e530c42bc8d7c98ad779e505fc01bd904a1f) - **fix:** ensure correct `this` context when creating a new Module instance _(by Athan Reines)_
 -   [`982ac2d`](https://github.com/stdlib-js/stdlib/commit/982ac2d5c21bccdeffa39b4807b13b20ecba5cb9) - **fix:** ensure correct `this` context when creating a new Module instance _(by Athan Reines)_
 -   [`eb4ee39`](https://github.com/stdlib-js/stdlib/commit/eb4ee397ee785010d2f85edc22de34775869f036) - **chore:** update comments [(#7203)](https://github.com/stdlib-js/stdlib/pull/7203) _(by Prashant Kumar Yadav, Athan Reines)_
 -   [`2b194d1`](https://github.com/stdlib-js/stdlib/commit/2b194d117855b1f756a5f9617873231cf2a7fbd8) - **docs:** fix duplication declaration _(by Athan Reines)_
