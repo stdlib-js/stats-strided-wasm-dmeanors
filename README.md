@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-wasm-dmeanors@esm/index.mjs';
+import dmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-wasm-dmeanors@v0.1.0-esm/index.mjs';
 ```
 
 #### dmeanors.main( N, x, strideX )
@@ -268,7 +268,7 @@ The function has the following additional parameters:
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import dmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-wasm-dmeanors@esm/index.mjs';
+import dmeanors from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-strided-wasm-dmeanors@v0.1.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
