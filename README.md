@@ -171,7 +171,6 @@ Computes the [arithmetic mean][arithmetic-mean] of a double-precision floating-p
 ```javascript
 var Memory = require( '@stdlib/wasm-memory' );
 var oneTo = require( '@stdlib/array-one-to' );
-var zeros = require( '@stdlib/array-zeros' );
 
 // Create a new memory instance with an initial size of 10 pages (640KiB) and a maximum size of 100 pages (6.4MiB):
 var mem = new Memory({
@@ -218,7 +217,6 @@ Computes the [arithmetic mean][arithmetic-mean] of a double-precision floating-p
 ```javascript
 var Memory = require( '@stdlib/wasm-memory' );
 var oneTo = require( '@stdlib/array-one-to' );
-var zeros = require( '@stdlib/array-zeros' );
 
 // Create a new memory instance with an initial size of 10 pages (640KiB) and a maximum size of 100 pages (6.4MiB):
 var mem = new Memory({
@@ -388,8 +386,6 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/wasm/module-wrapper]: https://github.com/stdlib-js/wasm-module-wrapper
 
 [@stdlib/stats/strided/dmeanors]: https://github.com/stdlib-js/stats-strided-dmeanors
-
-<!-- </related-links> -->
 
 </section>
 
